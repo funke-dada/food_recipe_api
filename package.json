@@ -1,0 +1,22 @@
+{
+  "name": "food_recipe_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funke-dada/food_recipe_api.git"
+  },
+  "author": "Funke Dada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funke-dada/food_recipe_api/issues"
+  },
+  "homepage": "https://github.com/funke-dada/food_recipe_api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
